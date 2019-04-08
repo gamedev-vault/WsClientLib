@@ -1,0 +1,2 @@
+# WsClientLib
+Websocket Client Library
