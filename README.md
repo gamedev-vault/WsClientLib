@@ -7,7 +7,11 @@ The main motivation behind the library is to create a simple Websocket client li
 
 ## Dependencies
 
-The library's aim is to minimize external dependencies. The only external dependency is the TLS library.
+The library's aim is to minimize external dependencies. The only external dependency is the TLS library - mbedTLS.
+
+This project is based on the following repositories:
+- https://github.com/dhbaird/easywsclient
+- https://github.com/GameSparks/gamesparks-cpp-unreal
 
 ## Building
 
